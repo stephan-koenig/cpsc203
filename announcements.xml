@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>{{&lt; var course.full-title &gt;}}</title>
+<link>https://ubc-cs.github.io/cpsc203/announcements.html</link>
+<atom:link href="https://ubc-cs.github.io/cpsc203/announcements.xml" rel="self" type="application/rss+xml"/>
+<description>Course website for {{&lt; var course.code &gt;}} of the Department of Computer Science at the University of British Columbia
+</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 5</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/05_week-5/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will start working with some data, using the BeautifulSoup, and parsing data from the internet!</p>
+
+
+
+ ]]></description>
+  <category>weekly announcement</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/05_week-5/</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 4</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/04_week-4/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will be continuing knitting and learning about Python classes, and then learning about Pandas.</p>
+
+
+
+ ]]></description>
+  <category>weekly announcement</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/04_week-4/</guid>
+  <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 3</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/03_week-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will be learning about Python classes, including the <code>dataclass</code>, knitting and other fun things!</p>
+
+
+
+ ]]></description>
+  <category>weekly announcement</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/03_week-3/</guid>
+  <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 2</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/02_week-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will be doing a Python introduction so that we’re all on the same page before we start getting to some programming and design. In terms of content, we’ll learn about Python dataypes, conditionals, loops, functions, and error handling.</p>
+
+
+
+ ]]></description>
+  <category>weekly announcement</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/02_week-2/</guid>
+  <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 1</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/01_week-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week we will be doing course introductions, I will be showing you how to navigate the course website, and how the course is set up. In terms of content, we will learn Markdown together, and then start getting familiar with some course tools.</p>
+
+
+
+ ]]></description>
+  <category>weekly announcement</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/01_week-1/</guid>
+  <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome to CPSC 203!</title>
+  <dc:creator>{{&lt; var instructor.name &gt;}}</dc:creator>
+  <link>https://ubc-cs.github.io/cpsc203/posts/00_welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am excited to welcome you to CPSC 203! This short announcement is here to get you oriented to this course website and point out some important resources. The landing page contains the <a href="../../index.html">schedule</a> where you can see all the things happening in the weeks to come and the most recent post in <a href="../../announcements.html">announcements</a>. Then take a look at the <a href="../../syllabus.html">syllabus</a> to gain an overview of the course and its requirements, but we will discuss it in the first class.</p>
+<p>Oh, and if you have a <a href="https://github/com">GitHub.com</a> account, please feel free to introduce yourself in the comment section. If you do not have an account yet, don’t worry! We will learn soon how to set one up!</p>
+
+
+
+ ]]></description>
+  <category>orientation</category>
+  <category>resource</category>
+  <guid>https://ubc-cs.github.io/cpsc203/posts/00_welcome/</guid>
+  <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
