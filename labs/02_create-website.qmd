@@ -13,7 +13,7 @@ conflicts_prefer(dplyr::filter)
 library(here)
 library(readr)
 
-source(here("R", "format-md-bitly-link.R"))
+source(here("R", "format-md-link.R"))
        
 links <- read_csv(here("data", "schedule.csv"), show_col_types = FALSE) |> 
   filter(id == "02")
